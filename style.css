@@ -1,0 +1,15 @@
+.style2 {
+    font-size: 40px;
+    color: green;
+}
+h2 {
+    font-size: 5px;
+    color: yellow;
+    font-style: oblique;
+}
+
+p {
+    font-size: 10px;
+    color: blue;
+    font-style: italic;
+}
